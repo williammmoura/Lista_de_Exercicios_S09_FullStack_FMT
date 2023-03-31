@@ -6,6 +6,7 @@ export const App = () => {
       <Header />
       <main className="container mt-4">
         {/* algo precisa ser modificado aqui... */}
+        
       </main>
     </div>
   );
