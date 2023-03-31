@@ -7,16 +7,14 @@ export const Header = () => {
         <span className="flex-grow-1">Tarefas.dev</span>
         <ul class="navbar-nav ">
           <li class="nav-item me-auto">
-            <Link to="/Home">Home</Link>
-            {/* <a class="nav-link active" aria-current="page" href="#">
+            <Link class="nav-link active" aria-current="page" to="/home">
               Home
-            </a> */}
+            </Link>
           </li>
           <li class="nav-item">
-            <Link to="/quem-sou">Quem Sou</Link>
-            {/* <a class="nav-link" href="#">
-              Quem sou
-            </a> */}
+            <Link class="nav-link active" aria-current="page" to="quem-sou">
+              Quem Sou
+            </Link>
           </li>
         </ul>
       </nav>
