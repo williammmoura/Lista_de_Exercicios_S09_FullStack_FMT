@@ -1,3 +1,4 @@
+import React from "react";
 import { Avatar } from "../components/Avatar";
 import { Bio } from "../components/Bio";
 import { Usuario } from "../components/Usuario";

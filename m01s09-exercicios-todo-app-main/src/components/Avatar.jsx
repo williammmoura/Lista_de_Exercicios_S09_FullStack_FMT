@@ -1,3 +1,4 @@
+import React from "react";
 export class Avatar extends React.Component {
   constructor(props) {
     super(props);

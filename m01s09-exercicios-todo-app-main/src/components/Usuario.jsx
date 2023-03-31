@@ -1,3 +1,4 @@
+import React from "react";
 export const Usuario = ({ nome, cargo, redes }) => {
   return (
     <div>
