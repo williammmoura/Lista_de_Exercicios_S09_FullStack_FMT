@@ -8,7 +8,6 @@ export const App = () => {
       <main className="container mt-4">
         {/* algo precisa ser modificado aqui... */}
         <Outlet />
-
       </main>
     </div>
   );
